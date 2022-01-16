@@ -4,7 +4,7 @@ function Home()
 {
     return(
         <>
-            <h1>shubham home page data</h1>
+            <h1>all home page data</h1>
         </>
     )
 
